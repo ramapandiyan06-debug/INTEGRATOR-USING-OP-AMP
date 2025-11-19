@@ -43,8 +43,14 @@ ii)  SQUARE WAVE INPUT
 ## TABULATION:
 
 
+![WhatsApp Image 2025-11-19 at 22 34 35_c3bf40f0](https://github.com/user-attachments/assets/bad9d415-5914-4862-ac03-d6f1e9fd607b)
+
+
 ## GRAPH:
 
 
-## RESULT:
 
+![WhatsApp Image 2025-11-19 at 22 35 23_3cae80c3](https://github.com/user-attachments/assets/e0498463-fcce-4cf3-b855-652e2630f70a)
+
+## RESULT:
+Thus , an Integrator using Op-Amp are designed and thier practical values are observed.
